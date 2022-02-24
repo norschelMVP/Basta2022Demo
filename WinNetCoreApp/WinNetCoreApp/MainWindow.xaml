@@ -17,5 +17,6 @@
                 </TransformGroup>
             </Button.RenderTransform> Hallo
         </Button>
+        <Label Content="Label" Name="lblVersion" HorizontalAlignment="Left" Margin="215,280,0,0" VerticalAlignment="Top" Width="345"/>
     </Grid>
 </Window>
